@@ -1,0 +1,27 @@
+body{
+    background-color:#ddccff;
+    font-family: 'Courier New', monospace;
+    margin: 50px;
+    min-width: 250px;
+    color: blanchedalmond;
+    padding: 5px 30px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+a:hover{
+    background-color: black;
+    color: white;
+}
+
+a:visited{
+    color: purple;
+}
+
+#myDescription{
+    background-color: rgb(182, 78, 182);
+    color: rgb(243, 236, 236);
+}
